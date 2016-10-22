@@ -1,0 +1,11 @@
+C:\Users\Denchik\Documents\Visual Studio 2012\Projects\HtmlParser\HtmlParser\bin\Debug\HtmlParser.exe.config
+C:\Users\Denchik\Documents\Visual Studio 2012\Projects\HtmlParser\HtmlParser\bin\Debug\HtmlParser.exe
+C:\Users\Denchik\Documents\Visual Studio 2012\Projects\HtmlParser\HtmlParser\bin\Debug\HtmlParser.pdb
+C:\Users\Denchik\Documents\Visual Studio 2012\Projects\HtmlParser\HtmlParser\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Denchik\Documents\Visual Studio 2012\Projects\HtmlParser\HtmlParser\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Denchik\Documents\Visual Studio 2012\Projects\HtmlParser\HtmlParser\obj\Debug\HtmlParser.Form1.resources
+C:\Users\Denchik\Documents\Visual Studio 2012\Projects\HtmlParser\HtmlParser\obj\Debug\HtmlParser.Properties.Resources.resources
+C:\Users\Denchik\Documents\Visual Studio 2012\Projects\HtmlParser\HtmlParser\obj\Debug\HtmlParser.csproj.GenerateResource.Cache
+C:\Users\Denchik\Documents\Visual Studio 2012\Projects\HtmlParser\HtmlParser\obj\Debug\HtmlParser.exe
+C:\Users\Denchik\Documents\Visual Studio 2012\Projects\HtmlParser\HtmlParser\obj\Debug\HtmlParser.pdb
+C:\Users\Denchik\Documents\Visual Studio 2012\Projects\HtmlParser\HtmlParser\obj\Debug\HtmlParser.csprojResolveAssemblyReference.cache
